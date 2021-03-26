@@ -4,3 +4,7 @@ TaskBarShowMailboxStatus=0
 TaskBarShowCPUStatus=0
 
 TaskBarShowNetStatus=0
+TaskBarShowWorkspaces=0
+CPUStatusShowRamUsage=0
+CPUStatusShowSwapUsage=0
+TaskBarShowMEMStatus=0
