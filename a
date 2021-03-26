@@ -3,6 +3,9 @@ alias 0pa='pacmd load-module module-native-protocol-tcp auth-ip-acl=127.0.0.1 au
 
 alias 0prl='proot-distro login debian-buster'
 
+alias 0ip='ip a |grep inet'
+
+
 alias 0vnc='vncserver -localhost no -geometry 1024x768'
 alias 0v='vivaldi --disable-gpu --no-sandbox'
 
