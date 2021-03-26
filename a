@@ -1,16 +1,18 @@
+alias 0ip='ip a |grep inet'
+
+
 alias 0pa0='pulseaudio --start --exit-idle-time=-1'
 alias 0pa='pacmd load-module module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1'
 
 alias 0prl='proot-distro login debian-buster'
 
-alias 0ip='ip a |grep inet'
 
 
-alias 0vnc='vncserver -localhost no -geometry 1024x768'
+alias 1vnc='vncserver -localhost no -geometry 1024x768'
 
 
-alias 0e='export PULSE_SERVER=127.0.0.1'
-alias 0v='vivaldi --disable-gpu --no-sandbox'
+alias 2e='export PULSE_SERVER=127.0.0.1'
+alias 2v='vivaldi --disable-gpu --no-sandbox'
 
 
 
