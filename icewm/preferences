@@ -8,3 +8,5 @@ TaskBarShowWorkspaces=0
 CPUStatusShowRamUsage=0
 CPUStatusShowSwapUsage=0
 TaskBarShowMEMStatus=0
+
+DesktopBackgroundColor="rgb:6d/85/9d"
