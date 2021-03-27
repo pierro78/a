@@ -9,10 +9,10 @@ alias 0prl2='proot-distro login 2'
 
 
 
+alias 1e='export PULSE_SERVER=127.0.0.1'
 alias 1vnc='vncserver -localhost no -geometry 1024x768'
 
 
-alias 2e='export PULSE_SERVER=127.0.0.1'
 alias 2v='vivaldi --disable-gpu --no-sandbox'
 
 
