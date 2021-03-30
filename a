@@ -14,6 +14,7 @@ alias 1e='export PULSE_SERVER=127.0.0.1'
 alias 1vnc='vncserver'
 
 alias 2e='export DISPLAY=:1'
+alias 2t='xfce4-terminal'
 alias 2v='vivaldi --disable-gpu --no-sandbox'
 
 
