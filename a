@@ -16,6 +16,8 @@ alias 1vnc='vncserver -localhost no -geometry 1024x768'
 alias 2e='export DISPLAY=:1'
 alias 2t='xfce4-terminal'
 alias 2v='vivaldi --disable-gpu --no-sandbox'
+alias 2c='chromium --disable-gpu --no-sandbox'
+
 
 
 
