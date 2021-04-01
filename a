@@ -12,6 +12,8 @@ alias 0prl2='proot-distro login 2 --shared-tmp'
 
 alias 1e='export PULSE_SERVER=127.0.0.1'
 alias 1vnc='vncserver -localhost no -geometry 1024x768'
+alias 1vl='vncserver -list'
+alias 1vk='vncserver -kill'
 
 alias 2e='export DISPLAY=:1'
 alias 2t='xfce4-terminal'
