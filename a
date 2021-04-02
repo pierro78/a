@@ -9,6 +9,8 @@ alias 0vnc='vncserver'
 alias 0prl='proot-distro login debian-buster --shared-tmp'
 alias 0prl2='proot-distro login 2 --shared-tmp'
 
+alias 0s="ssh -p '30222' 'pierro78@localhost'"
+
 
 alias 1e='export PULSE_SERVER=127.0.0.1'
 alias 1vnc='vncserver -localhost no -geometry 1024x768'
