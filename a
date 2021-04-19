@@ -13,6 +13,7 @@ alias 0s="ssh -p '30222' 'pierro78@localhost'"
 
 
 alias 1e='export PULSE_SERVER=127.0.0.1'
+alias 1eD='export DISPLAY=:0'
 alias 1vnc='vncserver -localhost no -geometry 1024x768'
 alias 1vl='vncserver -list'
 alias 1vk='vncserver -kill'
